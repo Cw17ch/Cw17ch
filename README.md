@@ -34,7 +34,7 @@ I am a security researcher focused on **Penetration Testing**, **Web Security**,
 
 | Project / Machine | Domain | Key Concepts | Link |
 | :--- | :--- | :--- | :--- |
-| **HTB - Sequel** | Web & Database | MySQL/MariaDB Enumeration, Misconfigurations | [View Writeup](https://github.com/Cw17ch/HTB-Sequel-Walkthrough) |
+| **HTB - Sequel - Walkthrough** | Web & Database | MySQL/MariaDB Enumeration, Misconfigurations | [View Writeup](https://github.com/Cw17ch/HTB-Sequel-Walkthrough) |
 | **Custom Recon Script** | Automation | Subdomain Enumeration & Port Discovery | *(In Progress)* |
 
 ---
